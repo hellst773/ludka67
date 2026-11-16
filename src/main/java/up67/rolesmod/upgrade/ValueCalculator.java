@@ -53,7 +53,7 @@ public class ValueCalculator {
         base(Items.OAK_LOG, 2); base(Items.SPRUCE_LOG, 2); base(Items.BIRCH_LOG, 2);
         base(Items.JUNGLE_LOG, 2); base(Items.ACACIA_LOG, 2); base(Items.DARK_OAK_LOG, 2);
         base(Items.MANGROVE_LOG, 2); base(Items.CHERRY_LOG, 2);
-        base(Items.WOOL, 3); base(Items.CLAY_BALL, 2); base(Items.SUGAR_CANE, 1);
+        base(Items.WHITE_WOOL, 3); base(Items.CLAY_BALL, 2); base(Items.SUGAR_CANE, 1);
         base(Items.NETHERITE_UPGRADE_SMITHING_TEMPLATE, 50);
 
         // кузнечный стол (netherite upgrade) - проще прописать руками,
